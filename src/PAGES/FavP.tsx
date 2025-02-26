@@ -1,0 +1,1 @@
+//* Manages favortie GIFs webpage

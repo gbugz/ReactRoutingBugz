@@ -69,6 +69,11 @@ function App() {
         placeholder="What gif would you like?"
 
         />
+        <button id="search-button" onClick={searchHandler(event)}>Search</button>
+
+
+
+
         <GifDisplay response={response} />
       </div>
     </>
